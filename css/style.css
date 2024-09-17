@@ -110,6 +110,12 @@ main #banner #banner-content .banner-content-btn {
   padding: 8px 24px;
   border: none;
 }
+main #banner #banner-content .banner-content-btn:hover {
+  font-size: 25px;
+  background-color: rgb(160, 27, 160);
+  transition: 200ms;
+}
+
 main #banner .banner-image {
   border-radius: 50%;
   width: 100%;
